@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-1\\FirstApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3FDEE5-9A49-477B-AB40-7CFC95B2BC25}|FirstApp.csproj|d:\\training\\vxceed-dotnet-sept2024\\codes\\day-1\\firstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E3FDEE5-9A49-477B-AB40-7CFC95B2BC25}|FirstApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3FDEE5-9A49-477B-AB40-7CFC95B2BC25}|FirstApp.csproj|d:\\training\\vxceed-dotnet-sept2024\\codes\\day-1\\firstapp\\firstapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5E3FDEE5-9A49-477B-AB40-7CFC95B2BC25}|FirstApp.csproj|solutionrelative:firstapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FirstApp",
+              "DocumentMoniker": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-1\\FirstApp\\FirstApp.csproj",
+              "RelativeDocumentMoniker": "FirstApp.csproj",
+              "ToolTip": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-1\\FirstApp\\FirstApp.csproj",
+              "RelativeToolTip": "FirstApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-16T04:48:30.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-1\\FirstApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-1\\FirstApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T04:40:58.068Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

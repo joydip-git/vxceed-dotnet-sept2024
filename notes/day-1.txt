@@ -1,0 +1,116 @@
+.net framework
+2002 => 2019 (4.8)
+1.0, 2.0, 3,3.5,4.0,4.5,4.6,4.7,4.8
+
+.net core framework
+2016 => 2024 (8.0)
+1.0-3.1 => 5.0
+
+.NET 5.0,6.0,7.0,8.0
+
+to create .NET application:
+a. using tool : "dotnet"
+		example:
+		command: >dotnet new console --name FirstApp
+
+b. using VS 2019/2022
+
+type of application that can be created using "dotne new"
+command:  dotnet new list -h (old:  dotnet new --list)
+
+.net:
+framework => create, compile, run and deploy application
+language => VC#, VB, VC++, R, python etc...
+Tool: IDE (Integrated Dev Environment) => Visual Studio
+
+framework:
+	a. core library
+	b. core runtime
+	c. asp.net core(active server pages)
+	d. ado.net (activex data object) and EF Core (Entity Framework)
+
+												 Common Type System (CTS)
+int x = 10;						=> Int32 x = 10;
+
+Dim x As Integer			=> Int32 x = 10;
+x=10
+
+
+assembly:
+1. IL code
+2. Manifest (metadata about your assembly)
+3. Type Metadata
+
+enter name: joydip
+enter mobile: 9090909090
+enter mailid: joy@gmail.com
+enter address: bangalore
+
+var name = 
+var mobile = 
+
+var employees=[]
+employees.push(name,mobile,mailid,address)
+
+blueprint
+	=> name, mobile, emailid, address
+
+class Employee{
+	//fields (data members)
+	 string name; =null
+	 long mobile; = 0
+	 string emailid; =null
+	 string address; =null
+
+	 Employee(){}	
+
+	 Employee(string empName, long empMobile, string empMail, string empAddress){
+		this.name = empName;
+		mobile = empMobile;
+		emailid = empMail;
+		address = empAddress;
+	}
+}
+static void Main(){
+	add(10,12);
+	Employee reference = create();
+	
+}
+void add(int x, int y){ int z = x+y; }
+Employee create(){
+	int x = 10;
+	Employee joydipEmp = null;
+	//joydipEmp  = new Employee();
+	joydipEmp  = new Employee("joydip",90909090,"","");
+	return joydipEmp;
+}
+
+data types in C#
+opertaors in C#
+control flow statements in C#
+array in C#
+
+OOP in C#
+
+exception handling
+collections and generics
+delegates
+lambda expression
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
