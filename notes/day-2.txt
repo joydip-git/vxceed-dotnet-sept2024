@@ -107,6 +107,118 @@ using Entities.Drawing;
 
 
 
+naming best practice:
+
+namespace:
+soln: company.technology.solnname
+other apps in the solution: company.technology.solnname.appname
+
+example:
+soln: vxceed.dotnet.payrollapp
+library: vxceed.dotnet.payrollapp.entities
+executable: vxceed.dotnet.payrollapp.userinterface
+
+
+class names: 
+	a. Pascal Casing 
+	example: 
+	class Employee{} => correct
+	class employee {} => bad
+
+	b. no keyword as prefix or suffix
+	example:
+	class Employee{} => correct
+	class EmployeeClass{} or class ClassEmployee{} => bad
+
+	c. should not start with special character or number as well as should not have special character in-between
+
+	class Employee{} => correct
+	class _Employee{} or class Employee_Info{} or class 1Employee{} => or class Employee1{} => bad
+
+	d. should be a "noun", not an "adjective" or "verb"
+	example: 
+	class Employee{} => correct
+	class CalculateSalary{} => bad
+
+
+accepting values from console:
+
+Console => Read(), ReadLine(), ReadKey()
+
+ReadLine() => returns input as a string
+
+
+														data types:
+				value types											reference types
+built-in						user-defined				built-in							user-defined
+------------------------------------------------------------------------------------
+byte							struct						string, object		class, interface,
+sbyte							enum														delegate, events
+short
+ushort
+int
+uint
+long
+ulong
+
+float
+decimal
+double
+
+char
+boolean
+
+DateTime
+TimeSpan
+
+etc.
+
+
+Conversion:
+	implicit conversion: lower range value gets converted to higher range or value type to reference type
+	
+	int x =10;
+	long l = x;
+
+	string xStr = x.ToString();
+
+	explicit conversion: higher range value gets converted to lower range or reference type to value type
+
+		long l = 123456789;
+		//casting
+		int x= (int)l;
+		//checked conversion
+		int x = checked((int)l);
+
+		string numStr = "12345";
+		//Parse => converts ONLY string data into the target
+		int x = int.Parse(numStr);
+		//Convert class methods => can convert any value any target type
+		int x = Convert.ToInt32(numStr);
+
+
+		Console.Write("enter num: ");
+		string numStr = Console.ReadLine();
+		int x = int.Parse(numStr);
+
+		Console.Write("enter num: ");		
+		int x = int.Parse(Console.ReadLine());
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
