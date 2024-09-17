@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "Class_Object_Demo/1.0.0": {
+        "dependencies": {
+          "PersonLibrary": "1.0.0"
+        },
         "runtime": {
           "Class_Object_Demo.dll": {}
+        }
+      },
+      "PersonLibrary/1.0.0": {
+        "runtime": {
+          "PersonLibrary.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "Class_Object_Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PersonLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

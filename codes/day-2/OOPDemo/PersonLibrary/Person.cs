@@ -1,9 +1,27 @@
-﻿namespace Class_Object_Demo
+﻿namespace Entities
 {
-    class Person
+    namespace DataAccess
     {
-        string name;
-        string address;
+        public class SqlDataAccess { }
+        public class MySqlDataAccess { }
+    }
+    namespace Drawing
+    {
+        public class Rectangle
+        {
+            public Rectangle()
+            {
+                Person p = new Person();
+                p.name = "";
+                p.address = "";
+            }
+        }
+        public class Circle { }
+    }
+    public class Person
+    {
+        public string name;
+        internal string address;
         string emailId;
         long mobileNo;
 

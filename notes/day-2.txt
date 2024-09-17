@@ -71,6 +71,42 @@ a property with only set => write-only property
 a property with only get => read-only property
 
 
+Members of a class:
+a. data members (fields)
+b. constructors
+c. proprties
+d. methods
+
+access specifiers:
+class: 
+	internal (default) => the class is accessible within the declaring application
+	public => the class is accessible within the declaring application as well as from any other application
+
+members: 
+	internal => its like public, but in the same application where the class is declared, whereas like private w.r.t. other application.
+   public => cam be accessed outside the class within the same as well as from outside this application
+	private => it can be accessed within the declaring class body ONLY, not from outsie the class body
+	protected =>
+	protected internal =>
+
+
+namespace: a technique to organize types. grouping similar types and segregating dis-similar types Its logical, NOT physical.
+
+namespace Entities{
+	namespace DataAccess{
+		public class SqlDataAccess{}
+		public class MySqlDataAccess{}
+	}
+	namespace Drawing{
+		public class Rectangle{}
+		public class Circle{}
+	}
+}
+
+using Entities.Drawing;
+
+
+
 
 
 

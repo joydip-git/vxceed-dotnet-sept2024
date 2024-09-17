@@ -1,0 +1,12 @@
+D:\training\vxceed-dotnet-sept2024\codes\day-2\OOPDemo\PersonLibrary\bin\Debug\net8.0\PersonLibrary.deps.json
+D:\training\vxceed-dotnet-sept2024\codes\day-2\OOPDemo\PersonLibrary\bin\Debug\net8.0\PersonLibrary.dll
+D:\training\vxceed-dotnet-sept2024\codes\day-2\OOPDemo\PersonLibrary\bin\Debug\net8.0\PersonLibrary.pdb
+D:\training\vxceed-dotnet-sept2024\codes\day-2\OOPDemo\PersonLibrary\obj\Debug\net8.0\PersonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\vxceed-dotnet-sept2024\codes\day-2\OOPDemo\PersonLibrary\obj\Debug\net8.0\PersonLibrary.AssemblyInfoInputs.cache
+D:\training\vxceed-dotnet-sept2024\codes\day-2\OOPDemo\PersonLibrary\obj\Debug\net8.0\PersonLibrary.AssemblyInfo.cs
+D:\training\vxceed-dotnet-sept2024\codes\day-2\OOPDemo\PersonLibrary\obj\Debug\net8.0\PersonLibrary.csproj.CoreCompileInputs.cache
+D:\training\vxceed-dotnet-sept2024\codes\day-2\OOPDemo\PersonLibrary\obj\Debug\net8.0\PersonLibrary.sourcelink.json
+D:\training\vxceed-dotnet-sept2024\codes\day-2\OOPDemo\PersonLibrary\obj\Debug\net8.0\PersonLibrary.dll
+D:\training\vxceed-dotnet-sept2024\codes\day-2\OOPDemo\PersonLibrary\obj\Debug\net8.0\refint\PersonLibrary.dll
+D:\training\vxceed-dotnet-sept2024\codes\day-2\OOPDemo\PersonLibrary\obj\Debug\net8.0\PersonLibrary.pdb
+D:\training\vxceed-dotnet-sept2024\codes\day-2\OOPDemo\PersonLibrary\obj\Debug\net8.0\ref\PersonLibrary.dll

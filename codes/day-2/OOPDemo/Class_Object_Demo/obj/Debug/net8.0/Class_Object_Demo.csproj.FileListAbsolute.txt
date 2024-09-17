@@ -13,3 +13,7 @@ D:\training\vxceed-dotnet-sept2024\codes\day-2\OOPDemo\Class_Object_Demo\obj\Deb
 D:\training\vxceed-dotnet-sept2024\codes\day-2\OOPDemo\Class_Object_Demo\obj\Debug\net8.0\Class_Object_Demo.pdb
 D:\training\vxceed-dotnet-sept2024\codes\day-2\OOPDemo\Class_Object_Demo\obj\Debug\net8.0\Class_Object_Demo.genruntimeconfig.cache
 D:\training\vxceed-dotnet-sept2024\codes\day-2\OOPDemo\Class_Object_Demo\obj\Debug\net8.0\ref\Class_Object_Demo.dll
+D:\training\vxceed-dotnet-sept2024\codes\day-2\OOPDemo\Class_Object_Demo\bin\Debug\net8.0\PersonLibrary.dll
+D:\training\vxceed-dotnet-sept2024\codes\day-2\OOPDemo\Class_Object_Demo\bin\Debug\net8.0\PersonLibrary.pdb
+D:\training\vxceed-dotnet-sept2024\codes\day-2\OOPDemo\Class_Object_Demo\obj\Debug\net8.0\Class_Object_Demo.csproj.AssemblyReference.cache
+D:\training\vxceed-dotnet-sept2024\codes\day-2\OOPDemo\Class_Object_Demo\obj\Debug\net8.0\Class_Ob.AE21C7BB.Up2Date

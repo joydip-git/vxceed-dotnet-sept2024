@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-2\\OOPDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD8A4ECE-B71D-47F4-8FA1-706F94007F54}|Class_Object_Demo\\Class_Object_Demo.csproj|d:\\training\\vxceed-dotnet-sept2024\\codes\\day-2\\oopdemo\\class_object_demo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD8A4ECE-B71D-47F4-8FA1-706F94007F54}|Class_Object_Demo\\Class_Object_Demo.csproj|solutionrelative:class_object_demo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AD8A4ECE-B71D-47F4-8FA1-706F94007F54}|Class_Object_Demo\\Class_Object_Demo.csproj|d:\\training\\vxceed-dotnet-sept2024\\codes\\day-2\\oopdemo\\class_object_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD8A4ECE-B71D-47F4-8FA1-706F94007F54}|Class_Object_Demo\\Class_Object_Demo.csproj|solutionrelative:class_object_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD8F5F0-071A-4942-8B68-9B8B43CBFE57}|PersonLibrary\\PersonLibrary.csproj|d:\\training\\vxceed-dotnet-sept2024\\codes\\day-2\\oopdemo\\personlibrary\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD8F5F0-071A-4942-8B68-9B8B43CBFE57}|PersonLibrary\\PersonLibrary.csproj|solutionrelative:personlibrary\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Person.cs",
-              "DocumentMoniker": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-2\\OOPDemo\\Class_Object_Demo\\Person.cs",
-              "RelativeDocumentMoniker": "Class_Object_Demo\\Person.cs",
-              "ToolTip": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-2\\OOPDemo\\Class_Object_Demo\\Person.cs",
-              "RelativeToolTip": "Class_Object_Demo\\Person.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAgwEkAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T04:10:24.323Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-2\\OOPDemo\\Class_Object_Demo\\Program.cs",
               "RelativeDocumentMoniker": "Class_Object_Demo\\Program.cs",
               "ToolTip": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-2\\OOPDemo\\Class_Object_Demo\\Program.cs",
               "RelativeToolTip": "Class_Object_Demo\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAA3wBMAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T04:05:12.813Z",
+              "WhenOpened": "2024-09-17T06:29:16.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-2\\OOPDemo\\PersonLibrary\\Person.cs",
+              "RelativeDocumentMoniker": "PersonLibrary\\Person.cs",
+              "ToolTip": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-2\\OOPDemo\\PersonLibrary\\Person.cs",
+              "RelativeToolTip": "PersonLibrary\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T06:29:03.634Z",
               "EditorCaption": ""
             }
           ]
