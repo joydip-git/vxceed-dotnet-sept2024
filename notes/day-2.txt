@@ -1,0 +1,100 @@
+.NET or .NET Core (8.0)
+legacy framework: .NET Framework (4.8)
+
+.NET:
+	a. library
+	b. runtime => .NET Core runtime, ASP.NET Core Runtime, .NET Desktop runtime
+	c. ASP.NET Core
+	d. ADO.NET and EF Core
+
+.NET application Execution cycle:
+a. compilation: source code => IL code (roslyn compiler)
+b. runtime: IL code => binary code (JIT compiler) => executed
+
+Languages: VC#, VB, VC++, python, R etc.
+
+IDE: Visual Studio 2022 (17.0.11)
+
+Object Oriented Programming:
+class and Object
+
+class Person{
+	public string name;
+	private long mobile;
+	private string emailId;
+	private string address;
+
+	//default constructor
+	public Person(){}
+
+	//parameterized constructor
+	public Person(string name, long mobile, string emailId, string address){
+		this.name = name;
+		this.mobile = mobile;
+		this.emailId = emailId;
+		this.address = address;	
+	}
+
+	public string PrintInfo(){
+		string info = name+" "+mobile+" "+emailId+" "+address;
+		return info;
+	}
+}
+class Program{
+	Main(){
+		Person p = new Person("anil",9090909090,"","");
+		Console.WriteLine(p.name);
+		p.PrintInfo();
+	}
+}
+
+
+instance members of a class:
+create an instance of the class to access the member (thorugh instance variable)
+non-static (instance) member can access static members
+
+static members of a class:
+no need to create an instance of the class to access the static member. access the member with the class name.
+static member can't access non-static/instance members
+
+Debugger windows:
+1. Locals: shows all local variables of a method currently being executed
+2. Autos: shows all local variables of a line in a method currently being executed or already executed
+3. Watch: type a variable to watch its current status
+4. Quick Watch: select a variable of the currently the method that is getting executed, to watch its current status
+
+
+Property:
+a group of two accessors: set and get
+to assign value to and get the value from a data member
+a property with only set => write-only property
+a property with only get => read-only property
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

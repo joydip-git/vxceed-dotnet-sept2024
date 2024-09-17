@@ -1,0 +1,15 @@
+D:\training\vxceed-dotnet-sept2024\codes\day-2\OOPDemo\Class_Object_Demo\bin\Debug\net8.0\Class_Object_Demo.exe
+D:\training\vxceed-dotnet-sept2024\codes\day-2\OOPDemo\Class_Object_Demo\bin\Debug\net8.0\Class_Object_Demo.deps.json
+D:\training\vxceed-dotnet-sept2024\codes\day-2\OOPDemo\Class_Object_Demo\bin\Debug\net8.0\Class_Object_Demo.runtimeconfig.json
+D:\training\vxceed-dotnet-sept2024\codes\day-2\OOPDemo\Class_Object_Demo\bin\Debug\net8.0\Class_Object_Demo.dll
+D:\training\vxceed-dotnet-sept2024\codes\day-2\OOPDemo\Class_Object_Demo\bin\Debug\net8.0\Class_Object_Demo.pdb
+D:\training\vxceed-dotnet-sept2024\codes\day-2\OOPDemo\Class_Object_Demo\obj\Debug\net8.0\Class_Object_Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\vxceed-dotnet-sept2024\codes\day-2\OOPDemo\Class_Object_Demo\obj\Debug\net8.0\Class_Object_Demo.AssemblyInfoInputs.cache
+D:\training\vxceed-dotnet-sept2024\codes\day-2\OOPDemo\Class_Object_Demo\obj\Debug\net8.0\Class_Object_Demo.AssemblyInfo.cs
+D:\training\vxceed-dotnet-sept2024\codes\day-2\OOPDemo\Class_Object_Demo\obj\Debug\net8.0\Class_Object_Demo.csproj.CoreCompileInputs.cache
+D:\training\vxceed-dotnet-sept2024\codes\day-2\OOPDemo\Class_Object_Demo\obj\Debug\net8.0\Class_Object_Demo.sourcelink.json
+D:\training\vxceed-dotnet-sept2024\codes\day-2\OOPDemo\Class_Object_Demo\obj\Debug\net8.0\Class_Object_Demo.dll
+D:\training\vxceed-dotnet-sept2024\codes\day-2\OOPDemo\Class_Object_Demo\obj\Debug\net8.0\refint\Class_Object_Demo.dll
+D:\training\vxceed-dotnet-sept2024\codes\day-2\OOPDemo\Class_Object_Demo\obj\Debug\net8.0\Class_Object_Demo.pdb
+D:\training\vxceed-dotnet-sept2024\codes\day-2\OOPDemo\Class_Object_Demo\obj\Debug\net8.0\Class_Object_Demo.genruntimeconfig.cache
+D:\training\vxceed-dotnet-sept2024\codes\day-2\OOPDemo\Class_Object_Demo\obj\Debug\net8.0\ref\Class_Object_Demo.dll
