@@ -11,7 +11,11 @@
 2. executable
 		add reference to the library
 		use the namespace
-		create one/two objects of the class and pass the values throuh constructor
-		note: accept the values from user
-		calculate total salary by calling the method
-		print the calculate salary along with name and id
+
+		create an array to store multiple objects of employee class
+		a. ask user about the size/length of the array
+		create  that many objects of the class
+		note: pass the values through constructor and accept the values from user
+		b. save the objects in the array
+		c. iterate through the array and calculate total salary of every employee
+		d. print the calculated salary along with name and id of every employee in the array

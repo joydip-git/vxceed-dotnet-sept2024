@@ -1,0 +1,15 @@
+D:\training\vxceed-dotnet-sept2024\codes\day-3\ArrayDemo\ArrayDemo\bin\Debug\net8.0\ArrayDemo.exe
+D:\training\vxceed-dotnet-sept2024\codes\day-3\ArrayDemo\ArrayDemo\bin\Debug\net8.0\ArrayDemo.deps.json
+D:\training\vxceed-dotnet-sept2024\codes\day-3\ArrayDemo\ArrayDemo\bin\Debug\net8.0\ArrayDemo.runtimeconfig.json
+D:\training\vxceed-dotnet-sept2024\codes\day-3\ArrayDemo\ArrayDemo\bin\Debug\net8.0\ArrayDemo.dll
+D:\training\vxceed-dotnet-sept2024\codes\day-3\ArrayDemo\ArrayDemo\bin\Debug\net8.0\ArrayDemo.pdb
+D:\training\vxceed-dotnet-sept2024\codes\day-3\ArrayDemo\ArrayDemo\obj\Debug\net8.0\ArrayDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\vxceed-dotnet-sept2024\codes\day-3\ArrayDemo\ArrayDemo\obj\Debug\net8.0\ArrayDemo.AssemblyInfoInputs.cache
+D:\training\vxceed-dotnet-sept2024\codes\day-3\ArrayDemo\ArrayDemo\obj\Debug\net8.0\ArrayDemo.AssemblyInfo.cs
+D:\training\vxceed-dotnet-sept2024\codes\day-3\ArrayDemo\ArrayDemo\obj\Debug\net8.0\ArrayDemo.csproj.CoreCompileInputs.cache
+D:\training\vxceed-dotnet-sept2024\codes\day-3\ArrayDemo\ArrayDemo\obj\Debug\net8.0\ArrayDemo.sourcelink.json
+D:\training\vxceed-dotnet-sept2024\codes\day-3\ArrayDemo\ArrayDemo\obj\Debug\net8.0\ArrayDemo.dll
+D:\training\vxceed-dotnet-sept2024\codes\day-3\ArrayDemo\ArrayDemo\obj\Debug\net8.0\refint\ArrayDemo.dll
+D:\training\vxceed-dotnet-sept2024\codes\day-3\ArrayDemo\ArrayDemo\obj\Debug\net8.0\ArrayDemo.pdb
+D:\training\vxceed-dotnet-sept2024\codes\day-3\ArrayDemo\ArrayDemo\obj\Debug\net8.0\ArrayDemo.genruntimeconfig.cache
+D:\training\vxceed-dotnet-sept2024\codes\day-3\ArrayDemo\ArrayDemo\obj\Debug\net8.0\ref\ArrayDemo.dll

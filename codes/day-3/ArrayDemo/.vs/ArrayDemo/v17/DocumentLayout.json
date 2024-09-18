@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-3\\ArrayDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4309BEC1-38A1-475B-9A54-060C64E759D8}|ArrayDemo\\ArrayDemo.csproj|d:\\training\\vxceed-dotnet-sept2024\\codes\\day-3\\arraydemo\\arraydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4309BEC1-38A1-475B-9A54-060C64E759D8}|ArrayDemo\\ArrayDemo.csproj|solutionrelative:arraydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4309BEC1-38A1-475B-9A54-060C64E759D8}|ArrayDemo\\ArrayDemo.csproj|d:\\training\\vxceed-dotnet-sept2024\\codes\\day-3\\arraydemo\\arraydemo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4309BEC1-38A1-475B-9A54-060C64E759D8}|ArrayDemo\\ArrayDemo.csproj|solutionrelative:arraydemo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-3\\ArrayDemo\\ArrayDemo\\Person.cs",
+              "RelativeDocumentMoniker": "ArrayDemo\\Person.cs",
+              "ToolTip": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-3\\ArrayDemo\\ArrayDemo\\Person.cs",
+              "RelativeToolTip": "ArrayDemo\\Person.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwBsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:10:48.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-3\\ArrayDemo\\ArrayDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayDemo\\Program.cs",
+              "ToolTip": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-3\\ArrayDemo\\ArrayDemo\\Program.cs",
+              "RelativeToolTip": "ArrayDemo\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:05:14.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
