@@ -1,0 +1,25 @@
+create an executable application to find out every word in a string and their occurrences and display the word and their occurrences in sorted manner (sorted alphabetically)
+
+input:
+CSharp is a programming language, I use CSharp for coding in any application.
+
+output:
+a:1
+any:1
+application:1
+coding:1
+for:1
+...
+CSharp:2
+
+static void Main(){
+	//ask user enter a sentence
+	//call getWordsAndCount and pass the sentence
+	//get the return collection
+	//print the way it is expected
+}
+
+static <Return Type> getWordsAndCount(string sentence){
+	//code
+	//return collection of wrords and count for each
+}

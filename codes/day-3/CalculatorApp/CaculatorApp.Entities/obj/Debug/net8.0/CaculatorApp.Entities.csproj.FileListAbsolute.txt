@@ -1,0 +1,12 @@
+D:\training\vxceed-dotnet-sept2024\codes\day-3\CalculatorApp\CaculatorApp.Entities\bin\Debug\net8.0\CaculatorApp.Entities.deps.json
+D:\training\vxceed-dotnet-sept2024\codes\day-3\CalculatorApp\CaculatorApp.Entities\bin\Debug\net8.0\CaculatorApp.Entities.dll
+D:\training\vxceed-dotnet-sept2024\codes\day-3\CalculatorApp\CaculatorApp.Entities\bin\Debug\net8.0\CaculatorApp.Entities.pdb
+D:\training\vxceed-dotnet-sept2024\codes\day-3\CalculatorApp\CaculatorApp.Entities\obj\Debug\net8.0\CaculatorApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\vxceed-dotnet-sept2024\codes\day-3\CalculatorApp\CaculatorApp.Entities\obj\Debug\net8.0\CaculatorApp.Entities.AssemblyInfoInputs.cache
+D:\training\vxceed-dotnet-sept2024\codes\day-3\CalculatorApp\CaculatorApp.Entities\obj\Debug\net8.0\CaculatorApp.Entities.AssemblyInfo.cs
+D:\training\vxceed-dotnet-sept2024\codes\day-3\CalculatorApp\CaculatorApp.Entities\obj\Debug\net8.0\CaculatorApp.Entities.csproj.CoreCompileInputs.cache
+D:\training\vxceed-dotnet-sept2024\codes\day-3\CalculatorApp\CaculatorApp.Entities\obj\Debug\net8.0\CaculatorApp.Entities.sourcelink.json
+D:\training\vxceed-dotnet-sept2024\codes\day-3\CalculatorApp\CaculatorApp.Entities\obj\Debug\net8.0\CaculatorApp.Entities.dll
+D:\training\vxceed-dotnet-sept2024\codes\day-3\CalculatorApp\CaculatorApp.Entities\obj\Debug\net8.0\refint\CaculatorApp.Entities.dll
+D:\training\vxceed-dotnet-sept2024\codes\day-3\CalculatorApp\CaculatorApp.Entities\obj\Debug\net8.0\CaculatorApp.Entities.pdb
+D:\training\vxceed-dotnet-sept2024\codes\day-3\CalculatorApp\CaculatorApp.Entities\obj\Debug\net8.0\ref\CaculatorApp.Entities.dll
