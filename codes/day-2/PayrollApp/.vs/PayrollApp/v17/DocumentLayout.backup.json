@@ -18,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-2\\PayrollApp\\PayrollApp.Entities\\Employee.cs",
-              "RelativeDocumentMoniker": "PayrollApp.Entities\\Employee.cs",
-              "ToolTip": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-2\\PayrollApp\\PayrollApp.Entities\\Employee.cs",
-              "RelativeToolTip": "PayrollApp.Entities\\Employee.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T07:06:44.734Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -41,9 +28,22 @@
               "RelativeDocumentMoniker": "PayrollApp.UserInterface\\Program.cs",
               "ToolTip": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-2\\PayrollApp\\PayrollApp.UserInterface\\Program.cs",
               "RelativeToolTip": "PayrollApp.UserInterface\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T06:58:10.883Z",
+              "WhenOpened": "2024-09-18T04:57:34.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-2\\PayrollApp\\PayrollApp.Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "PayrollApp.Entities\\Employee.cs",
+              "ToolTip": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-2\\PayrollApp\\PayrollApp.Entities\\Employee.cs",
+              "RelativeToolTip": "PayrollApp.Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T04:57:21.656Z",
               "EditorCaption": ""
             }
           ]

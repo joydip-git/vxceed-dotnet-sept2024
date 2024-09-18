@@ -1,0 +1,15 @@
+D:\training\vxceed-dotnet-sept2024\codes\day-3\NewFeaturesOfCSharp\NewFeaturesOfCSharp\bin\Debug\net8.0\NewFeaturesOfCSharp.exe
+D:\training\vxceed-dotnet-sept2024\codes\day-3\NewFeaturesOfCSharp\NewFeaturesOfCSharp\bin\Debug\net8.0\NewFeaturesOfCSharp.deps.json
+D:\training\vxceed-dotnet-sept2024\codes\day-3\NewFeaturesOfCSharp\NewFeaturesOfCSharp\bin\Debug\net8.0\NewFeaturesOfCSharp.runtimeconfig.json
+D:\training\vxceed-dotnet-sept2024\codes\day-3\NewFeaturesOfCSharp\NewFeaturesOfCSharp\bin\Debug\net8.0\NewFeaturesOfCSharp.dll
+D:\training\vxceed-dotnet-sept2024\codes\day-3\NewFeaturesOfCSharp\NewFeaturesOfCSharp\bin\Debug\net8.0\NewFeaturesOfCSharp.pdb
+D:\training\vxceed-dotnet-sept2024\codes\day-3\NewFeaturesOfCSharp\NewFeaturesOfCSharp\obj\Debug\net8.0\NewFeaturesOfCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\vxceed-dotnet-sept2024\codes\day-3\NewFeaturesOfCSharp\NewFeaturesOfCSharp\obj\Debug\net8.0\NewFeaturesOfCSharp.AssemblyInfoInputs.cache
+D:\training\vxceed-dotnet-sept2024\codes\day-3\NewFeaturesOfCSharp\NewFeaturesOfCSharp\obj\Debug\net8.0\NewFeaturesOfCSharp.AssemblyInfo.cs
+D:\training\vxceed-dotnet-sept2024\codes\day-3\NewFeaturesOfCSharp\NewFeaturesOfCSharp\obj\Debug\net8.0\NewFeaturesOfCSharp.csproj.CoreCompileInputs.cache
+D:\training\vxceed-dotnet-sept2024\codes\day-3\NewFeaturesOfCSharp\NewFeaturesOfCSharp\obj\Debug\net8.0\NewFeaturesOfCSharp.sourcelink.json
+D:\training\vxceed-dotnet-sept2024\codes\day-3\NewFeaturesOfCSharp\NewFeaturesOfCSharp\obj\Debug\net8.0\NewFeaturesOfCSharp.dll
+D:\training\vxceed-dotnet-sept2024\codes\day-3\NewFeaturesOfCSharp\NewFeaturesOfCSharp\obj\Debug\net8.0\refint\NewFeaturesOfCSharp.dll
+D:\training\vxceed-dotnet-sept2024\codes\day-3\NewFeaturesOfCSharp\NewFeaturesOfCSharp\obj\Debug\net8.0\NewFeaturesOfCSharp.pdb
+D:\training\vxceed-dotnet-sept2024\codes\day-3\NewFeaturesOfCSharp\NewFeaturesOfCSharp\obj\Debug\net8.0\NewFeaturesOfCSharp.genruntimeconfig.cache
+D:\training\vxceed-dotnet-sept2024\codes\day-3\NewFeaturesOfCSharp\NewFeaturesOfCSharp\obj\Debug\net8.0\ref\NewFeaturesOfCSharp.dll

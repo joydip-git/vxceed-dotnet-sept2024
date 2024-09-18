@@ -1,0 +1,41 @@
+1. library
+	class: 
+	instance methods: add, subtract, multiply, divide
+	arguments => two (int)
+	return type: int
+
+2. executable
+	write code in Main method to call any of the method based on user's choice:
+
+output:
+	-----menu----
+	1. add
+	2. sub
+	3. multi
+	4. div
+
+	enter choice[1/2/3/4]: 1
+	enter value: 12
+	enter value: 13
+
+	add result: 25
+
+	would you like to continue?[y/Y/n/N]:y
+
+-----menu----
+	1. add
+	2. sub
+	3. multi
+	4. div
+
+	enter choice[1/2/3/4]: 2
+	enter value: 12
+	enter value: 3
+
+	add result: 9
+	......
+
+
+
+
+

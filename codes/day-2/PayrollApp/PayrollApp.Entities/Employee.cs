@@ -2,16 +2,20 @@
 {
     public class Employee
     {
-        private int id;
-        private string name;
+        #region Data Members
+        private readonly int id;
+        private string? name;        
         private double basicPayment;
         private double daPayment;
         private double hraPayment;
         private double totalSalary;
+        public const string COMPANY = "VXCEED";
+        #endregion
 
+        #region Constructors
         public Employee() { }
 
-        public Employee(int id, string name, double basicPayment, double daPayment, double hraPayment)
+        public Employee(int id, string? name, double basicPayment, double daPayment, double hraPayment)
         {
             this.id = id;
             this.name = name;
@@ -19,10 +23,12 @@
             this.daPayment = daPayment;
             this.hraPayment = hraPayment;
         }
+        #endregion
 
-        public int Id { get => id; set => id = value; }
+        #region Properties
+        public int Id { get => id; }
 
-        public string Name
+        public string? Name
         { get => name; set => name = value; }
 
         public double BasicPayment
@@ -35,10 +41,14 @@
         { get => hraPayment; set => hraPayment = value; }
 
         public double TotalSalary { get => totalSalary; }
+        #endregion
 
+        #region Methods
         public void CalculateSalary()
         {
+            //const int x = 100;
             totalSalary = basicPayment + daPayment + hraPayment;
         }
+        #endregion
     }
 }

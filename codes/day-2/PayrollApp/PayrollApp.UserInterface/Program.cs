@@ -6,30 +6,40 @@ namespace PayrollApp.UserInterface
     {
         static void Main()
         {
-            Employee employee = Create();
-            employee.CalculateSalary();
-            Console.WriteLine(employee.Name + " with " + employee.Id + "got " + employee.TotalSalary + " as total salary");
+
+            //Employee? employee = Create();
+            
+            //Create(out Employee employee);
+
+            Employee? employee = null;
+            Create(ref employee);
+            employee?.CalculateSalary();
+            Console.WriteLine($"{employee?.Name} working for {Employee.COMPANY} having Id:{employee?.Id} got {employee?.TotalSalary} as salary");
+
         }
 
         //method to create an employee instance with values from user
-        static Employee Create()
+        //static Employee Create()
+        //static Employee Create(out Employee employee)
+        static Employee Create(ref Employee? employee)
         {
-            Employee employee = new Employee();
-
             Console.Write("name: ");
-            employee.Name = Console.ReadLine();
+            string? empName = Console.ReadLine();
 
             Console.Write("id: ");
-            employee.Id = int.Parse(Console.ReadLine());
+            int empId = int.Parse(Console.ReadLine() ?? "0");
 
             Console.Write("basic payment: ");
-            employee.BasicPayment = double.Parse(Console.ReadLine());
+            double empBasic = double.Parse(Console.ReadLine() ?? "0");
 
             Console.Write("da payment: ");
-            employee.DaPayment = double.Parse(Console.ReadLine());
+            double empDa = double.Parse(Console.ReadLine() ?? "0");
 
             Console.Write("hra payment: ");
-            employee.HraPayment = double.Parse(Console.ReadLine());
+            double empHra = double.Parse(Console.ReadLine() ?? "0");
+
+            //Employee employee = new Employee(id: empId, basicPayment: empBasic, daPayment: empDa, hraPayment: empHra, name: empName);
+            employee = new Employee(id: empId, basicPayment: empBasic, daPayment: empDa, hraPayment: empHra, name: empName);
 
             return employee;
         }

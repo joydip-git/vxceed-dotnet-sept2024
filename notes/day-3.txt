@@ -1,0 +1,47 @@
+pass by value
+pass by reference
+pass by out
+
+create table employees(
+id int primary key not null,
+name varchar(20) not null,
+......
+totalsalary decimal(18,2) 
+)
+
+insert into employees(id,name,....,totalsalary) values('joydip',1,....,)
+
+decimal total=null;
+
+Nullable<decimal> total = null;
+total = 10000M;
+
+nullable value and reference type(?)
+null check (var-name?.operation())
+null coalesce operator (??)
+null coalesce assignment (??=)
+
+String Interpolation/template => $"{data}";
+
+in-line/local out variable
+named arguments
+optional arguments with default value
+
+
+readonly => used with data members, the data member can only be set through constuctor
+const => one time value is assigned when the variable or data member while declaring and that value can never be changed. by default static. access it with class name.
+naming convention: complete uppercase
+
+
+
+
+
+
+
+
+
+
+
+
+
+
