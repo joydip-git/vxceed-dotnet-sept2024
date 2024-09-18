@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-3\\CalculatorApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1960CFAF-2F6A-4781-BA98-DAEA38CFF0A2}|CaculatorApp.Entities\\CaculatorApp.Entities.csproj|d:\\training\\vxceed-dotnet-sept2024\\codes\\day-3\\calculatorapp\\caculatorapp.entities\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1960CFAF-2F6A-4781-BA98-DAEA38CFF0A2}|CaculatorApp.Entities\\CaculatorApp.Entities.csproj|solutionrelative:caculatorapp.entities\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D4504F99-BCA0-4B48-B441-AC1FFA9C961E}|CalculatorApp.UserInterface\\CalculatorApp.UserInterface.csproj|d:\\training\\vxceed-dotnet-sept2024\\codes\\day-3\\calculatorapp\\calculatorapp.userinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4504F99-BCA0-4B48-B441-AC1FFA9C961E}|CalculatorApp.UserInterface\\CalculatorApp.UserInterface.csproj|solutionrelative:calculatorapp.userinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1960CFAF-2F6A-4781-BA98-DAEA38CFF0A2}|CaculatorApp.Entities\\CaculatorApp.Entities.csproj|d:\\training\\vxceed-dotnet-sept2024\\codes\\day-3\\calculatorapp\\caculatorapp.entities\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1960CFAF-2F6A-4781-BA98-DAEA38CFF0A2}|CaculatorApp.Entities\\CaculatorApp.Entities.csproj|solutionrelative:caculatorapp.entities\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-3\\CalculatorApp\\CalculatorApp.UserInterface\\Program.cs",
-              "RelativeDocumentMoniker": "CalculatorApp.UserInterface\\Program.cs",
-              "ToolTip": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-3\\CalculatorApp\\CalculatorApp.UserInterface\\Program.cs",
-              "RelativeToolTip": "CalculatorApp.UserInterface\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T05:46:52.792Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Calculation.cs",
               "DocumentMoniker": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-3\\CalculatorApp\\CaculatorApp.Entities\\Calculation.cs",
               "RelativeDocumentMoniker": "CaculatorApp.Entities\\Calculation.cs",
               "ToolTip": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-3\\CalculatorApp\\CaculatorApp.Entities\\Calculation.cs",
               "RelativeToolTip": "CaculatorApp.Entities\\Calculation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T05:46:22.297Z",
+              "WhenOpened": "2024-09-18T06:41:01.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-3\\CalculatorApp\\CalculatorApp.UserInterface\\Program.cs",
+              "RelativeDocumentMoniker": "CalculatorApp.UserInterface\\Program.cs",
+              "ToolTip": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-3\\CalculatorApp\\CalculatorApp.UserInterface\\Program.cs",
+              "RelativeToolTip": "CalculatorApp.UserInterface\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAEcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:31:15.189Z",
               "EditorCaption": ""
             }
           ]
