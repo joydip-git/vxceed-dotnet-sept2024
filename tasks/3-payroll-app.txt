@@ -1,12 +1,32 @@
 1. library
-
-	data members: name, id, basic, da, hra	, totalsalary
+	class: Employee
+	data members: name, id, basic, da, hra, totalsalary
 	constructors: default + parameterized
 	properties: for all the data members
 	method: 
 		purpose: to calculate the total salary of an instance and save the same in a data member
 		parameters: none
 		return: none
+
+	class: Developer
+	data members: name, id, basic, da, hra, incentive, totalsalary
+	constructors: default + parameterized
+	properties: for all the data members
+	method: 
+		purpose: to calculate the total salary of an instance and save the same in a data member
+		parameters: none
+		return: none
+
+	class: Hr
+	data members: name, id, basic, da, hra, gratuity, totalsalary
+	constructors: default + parameterized
+	properties: for all the data members
+	method: 
+		purpose: to calculate the total salary of an instance and save the same in a data member
+		parameters: none
+		return: none
+
+	
 
 2. executable
 		add reference to the library

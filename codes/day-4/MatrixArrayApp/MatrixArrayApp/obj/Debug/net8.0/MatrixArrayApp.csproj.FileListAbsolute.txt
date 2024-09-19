@@ -1,0 +1,15 @@
+D:\training\vxceed-dotnet-sept2024\codes\day-4\MatrixArrayApp\MatrixArrayApp\bin\Debug\net8.0\MatrixArrayApp.exe
+D:\training\vxceed-dotnet-sept2024\codes\day-4\MatrixArrayApp\MatrixArrayApp\bin\Debug\net8.0\MatrixArrayApp.deps.json
+D:\training\vxceed-dotnet-sept2024\codes\day-4\MatrixArrayApp\MatrixArrayApp\bin\Debug\net8.0\MatrixArrayApp.runtimeconfig.json
+D:\training\vxceed-dotnet-sept2024\codes\day-4\MatrixArrayApp\MatrixArrayApp\bin\Debug\net8.0\MatrixArrayApp.dll
+D:\training\vxceed-dotnet-sept2024\codes\day-4\MatrixArrayApp\MatrixArrayApp\bin\Debug\net8.0\MatrixArrayApp.pdb
+D:\training\vxceed-dotnet-sept2024\codes\day-4\MatrixArrayApp\MatrixArrayApp\obj\Debug\net8.0\MatrixArrayApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\vxceed-dotnet-sept2024\codes\day-4\MatrixArrayApp\MatrixArrayApp\obj\Debug\net8.0\MatrixArrayApp.AssemblyInfoInputs.cache
+D:\training\vxceed-dotnet-sept2024\codes\day-4\MatrixArrayApp\MatrixArrayApp\obj\Debug\net8.0\MatrixArrayApp.AssemblyInfo.cs
+D:\training\vxceed-dotnet-sept2024\codes\day-4\MatrixArrayApp\MatrixArrayApp\obj\Debug\net8.0\MatrixArrayApp.csproj.CoreCompileInputs.cache
+D:\training\vxceed-dotnet-sept2024\codes\day-4\MatrixArrayApp\MatrixArrayApp\obj\Debug\net8.0\MatrixArrayApp.sourcelink.json
+D:\training\vxceed-dotnet-sept2024\codes\day-4\MatrixArrayApp\MatrixArrayApp\obj\Debug\net8.0\MatrixArrayApp.dll
+D:\training\vxceed-dotnet-sept2024\codes\day-4\MatrixArrayApp\MatrixArrayApp\obj\Debug\net8.0\refint\MatrixArrayApp.dll
+D:\training\vxceed-dotnet-sept2024\codes\day-4\MatrixArrayApp\MatrixArrayApp\obj\Debug\net8.0\MatrixArrayApp.pdb
+D:\training\vxceed-dotnet-sept2024\codes\day-4\MatrixArrayApp\MatrixArrayApp\obj\Debug\net8.0\MatrixArrayApp.genruntimeconfig.cache
+D:\training\vxceed-dotnet-sept2024\codes\day-4\MatrixArrayApp\MatrixArrayApp\obj\Debug\net8.0\ref\MatrixArrayApp.dll

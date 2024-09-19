@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixArrayApp", "MatrixArrayApp\MatrixArrayApp.csproj", "{BAE4A21C-4315-4003-A6BA-EAA8F64D2C1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAE4A21C-4315-4003-A6BA-EAA8F64D2C1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAE4A21C-4315-4003-A6BA-EAA8F64D2C1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAE4A21C-4315-4003-A6BA-EAA8F64D2C1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAE4A21C-4315-4003-A6BA-EAA8F64D2C1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80D162F0-4153-4210-BB22-D1B2FB267C42}
+	EndGlobalSection
+EndGlobal

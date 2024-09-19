@@ -1,0 +1,22 @@
+Inheritance
+Polymorphism
+
+not possible:
+internal class B{}
+public class Developer:Employee{}
+
+single
+A -> B
+multi-level
+A<-B<-C
+
+multiple: (not supported in C#)
+A, B -> C
+
+Developer -> Employee -> Object
+
+
+
+
+
+
