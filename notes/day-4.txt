@@ -1,5 +1,24 @@
-Inheritance
-Polymorphism
+Inheritance:
+	when child class object is created, always first base class's default ctor always will be invoked, along with child class's ctor.
+	when child class object is created, you can invoke other ctors of the base class explicitly by using the "base" keyword from child class's ctor
+	"base" keyword is used to call "immediate" base class's other (public) members too.
+	"base" keyword refers the "immediate" base class of the child/derived class.
+	private members are also inherited in child class, though they are not accessible.
+	to make base class's members accessible to child class, make the members as protected.
+	C# does not support multiple inheritance of class.
+
+Polymorphism:
+	1. static/compile time : which method will be called during runtime is decided during the compilation time by the compiler.
+		a. method overloading: 
+		parameters => 
+		i. data type of parameters
+		ii. number of parameters
+		iii. position/order of the parameters
+		b. operator overloading
+
+	2. runtime/dynamic: (same) method of which child class will be called decided during runtime, as the objects are created during runtime.
+		declare the method in the base class with "virtual" keyword
+		declare the same method in the child class with "override" keyword
 
 not possible:
 internal class B{}

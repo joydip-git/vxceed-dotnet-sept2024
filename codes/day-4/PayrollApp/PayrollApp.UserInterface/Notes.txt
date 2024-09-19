@@ -1,0 +1,104 @@
+﻿using PayrollApp.Entities;
+
+namespace PayrollApp.UserInterface
+{
+    internal class Program
+    {
+        static void Add(int x, int y)
+        {
+
+        }
+        static void Add(int x, int y, int z)
+        {
+
+        }
+        static void Add(int x, int y, long z)
+        {
+
+        }
+        static void Add(int x, long y, int z)
+        {
+
+        }
+        static void Main()
+        {
+            Add(12, 14);
+            Add(1, 2, 3);
+            //upcasting: implicit conversion
+            Employee developer = new Developer(1, "anil", 1000, 2000, 3000, 4000);
+            Employee hr = new Hr(2, "sunil", 1500, 2500, 3500, 4500);
+            PrintSalary(developer);
+            PrintSalary(hr);
+            //developer.TotalSalary = 10000;
+            //Employee? employee = Create();
+
+            //Create(out Employee employee);
+            /*
+            Employee? employee = null;
+            Create(ref employee);
+            employee?.CalculateSalary();
+            Console.WriteLine($"{employee?.Name} working for {Employee.COMPANY} having Id:{employee?.Id} got {employee?.TotalSalary} as salary");
+            */
+        }
+        static void PrintSalary(Employee employee)
+        {
+            employee.CalculateSalary();
+            Console.WriteLine(employee.TotalSalary);
+        }
+        //static void PrintSalary(Employee employee)
+        //{
+        //    if (employee != null)
+        //    {
+        //        //employee.CalculateSalary();
+        //        if (employee is Developer)
+        //        {
+        //            //downcasting:explicit conversion
+        //            Developer developer = (Developer)employee;
+        //            developer.CalculateDeveloperSalary();
+        //            Console.WriteLine(developer.TotalSalary);
+        //        }
+        //        if (employee is Hr)
+        //        {
+        //            Hr? hr = employee as Hr;
+        //            hr?.CalculateHrSalary();
+        //            Console.WriteLine(hr?.TotalSalary);
+        //        }
+        //    }
+        //}
+        //static void PrintSalary(Developer developer)
+        //{
+        //    developer.CalculateDeveloperSalary();
+        //    Console.WriteLine(developer.TotalSalary);
+        //}
+        //static void PrintSalary(Hr hr)
+        //{
+        //    hr.CalculateHrSalary();
+        //    Console.WriteLine(hr.TotalSalary);
+        //}
+        //method to create an employee instance with values from user
+        //static Employee Create()
+        //static Employee Create(out Employee employee)
+        static Employee Create(ref Employee? employee)
+        {
+            Console.Write("name: ");
+            string? empName = Console.ReadLine();
+
+            Console.Write("id: ");
+            int empId = int.Parse(Console.ReadLine() ?? "0");
+
+            Console.Write("basic payment: ");
+            double empBasic = double.Parse(Console.ReadLine() ?? "0");
+
+            Console.Write("da payment: ");
+            double empDa = double.Parse(Console.ReadLine() ?? "0");
+
+            Console.Write("hra payment: ");
+            double empHra = double.Parse(Console.ReadLine() ?? "0");
+
+            //Employee employee = new Employee(id: empId, basicPayment: empBasic, daPayment: empDa, hraPayment: empHra, name: empName);
+            employee = new Employee(id: empId, basicPayment: empBasic, daPayment: empDa, hraPayment: empHra, name: empName);
+
+            return employee;
+        }
+    }
+}
