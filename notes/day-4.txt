@@ -20,6 +20,19 @@ Polymorphism:
 		declare the method in the base class with "virtual" keyword
 		declare the same method in the child class with "override" keyword
 
+Abstract:
+	method/property: a method/property which do not have any implementation (code), just declaration.
+	you must declare an abstract method/property with "abstract" keyword (which means by default virtual too)
+	
+	class: a class having at least an abstract method/property is an abstract class.In C#, an abstract class must be declared with "abstract" keyword.
+		Object of an abstract class can't be created.
+		An abstract class, like any concrete class, can have data members, constructors and other non-abstract methods/properties too.
+
+	Reason: to provide a template with some method/property signatures which must be inherited into and then implemented by the child classes
+
+	Rules: a child class inheriting from abstract base class MUST implement all the abstract members of the base class, otherwise the child class itself has to be an abstract class.
+	while implementing the abstract members of the base class, child class should use "override" keyword, as the "abstract" members are by default "virtual".
+
 not possible:
 internal class B{}
 public class Developer:Employee{}

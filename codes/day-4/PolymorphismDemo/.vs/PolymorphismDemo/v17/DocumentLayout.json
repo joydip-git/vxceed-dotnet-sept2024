@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-4\\PolymorphismDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7D14CB-7C40-4D4A-8454-50267AD4CBEB}|PolymorphismDemo\\PolymorphismDemo.csproj|d:\\training\\vxceed-dotnet-sept2024\\codes\\day-4\\polymorphismdemo\\polymorphismdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7D14CB-7C40-4D4A-8454-50267AD4CBEB}|PolymorphismDemo\\PolymorphismDemo.csproj|solutionrelative:polymorphismdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7D14CB-7C40-4D4A-8454-50267AD4CBEB}|PolymorphismDemo\\PolymorphismDemo.csproj|d:\\training\\vxceed-dotnet-sept2024\\codes\\day-4\\polymorphismdemo\\polymorphismdemo\\databasedatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7D14CB-7C40-4D4A-8454-50267AD4CBEB}|PolymorphismDemo\\PolymorphismDemo.csproj|solutionrelative:polymorphismdemo\\databasedatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7D14CB-7C40-4D4A-8454-50267AD4CBEB}|PolymorphismDemo\\PolymorphismDemo.csproj|d:\\training\\vxceed-dotnet-sept2024\\codes\\day-4\\polymorphismdemo\\polymorphismdemo\\xmlfiledatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7D14CB-7C40-4D4A-8454-50267AD4CBEB}|PolymorphismDemo\\PolymorphismDemo.csproj|solutionrelative:polymorphismdemo\\xmlfiledatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7D14CB-7C40-4D4A-8454-50267AD4CBEB}|PolymorphismDemo\\PolymorphismDemo.csproj|d:\\training\\vxceed-dotnet-sept2024\\codes\\day-4\\polymorphismdemo\\polymorphismdemo\\datareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7D14CB-7C40-4D4A-8454-50267AD4CBEB}|PolymorphismDemo\\PolymorphismDemo.csproj|solutionrelative:polymorphismdemo\\datareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataReader.cs",
+              "DocumentMoniker": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-4\\PolymorphismDemo\\PolymorphismDemo\\DataReader.cs",
+              "RelativeDocumentMoniker": "PolymorphismDemo\\DataReader.cs",
+              "ToolTip": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-4\\PolymorphismDemo\\PolymorphismDemo\\DataReader.cs",
+              "RelativeToolTip": "PolymorphismDemo\\DataReader.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:18:59.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "XmlFileDataReader.cs",
+              "DocumentMoniker": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-4\\PolymorphismDemo\\PolymorphismDemo\\XmlFileDataReader.cs",
+              "RelativeDocumentMoniker": "PolymorphismDemo\\XmlFileDataReader.cs",
+              "ToolTip": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-4\\PolymorphismDemo\\PolymorphismDemo\\XmlFileDataReader.cs",
+              "RelativeToolTip": "PolymorphismDemo\\XmlFileDataReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:15:59.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataBaseDataReader.cs",
+              "DocumentMoniker": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-4\\PolymorphismDemo\\PolymorphismDemo\\DataBaseDataReader.cs",
+              "RelativeDocumentMoniker": "PolymorphismDemo\\DataBaseDataReader.cs",
+              "ToolTip": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-4\\PolymorphismDemo\\PolymorphismDemo\\DataBaseDataReader.cs",
+              "RelativeToolTip": "PolymorphismDemo\\DataBaseDataReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:15:34.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-4\\PolymorphismDemo\\PolymorphismDemo\\Program.cs",
+              "RelativeDocumentMoniker": "PolymorphismDemo\\Program.cs",
+              "ToolTip": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-4\\PolymorphismDemo\\PolymorphismDemo\\Program.cs",
+              "RelativeToolTip": "PolymorphismDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:14:53.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

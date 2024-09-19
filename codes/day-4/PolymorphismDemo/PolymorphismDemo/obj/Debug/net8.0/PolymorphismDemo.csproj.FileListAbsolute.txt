@@ -1,0 +1,15 @@
+D:\training\vxceed-dotnet-sept2024\codes\day-4\PolymorphismDemo\PolymorphismDemo\bin\Debug\net8.0\PolymorphismDemo.exe
+D:\training\vxceed-dotnet-sept2024\codes\day-4\PolymorphismDemo\PolymorphismDemo\bin\Debug\net8.0\PolymorphismDemo.deps.json
+D:\training\vxceed-dotnet-sept2024\codes\day-4\PolymorphismDemo\PolymorphismDemo\bin\Debug\net8.0\PolymorphismDemo.runtimeconfig.json
+D:\training\vxceed-dotnet-sept2024\codes\day-4\PolymorphismDemo\PolymorphismDemo\bin\Debug\net8.0\PolymorphismDemo.dll
+D:\training\vxceed-dotnet-sept2024\codes\day-4\PolymorphismDemo\PolymorphismDemo\bin\Debug\net8.0\PolymorphismDemo.pdb
+D:\training\vxceed-dotnet-sept2024\codes\day-4\PolymorphismDemo\PolymorphismDemo\obj\Debug\net8.0\PolymorphismDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\vxceed-dotnet-sept2024\codes\day-4\PolymorphismDemo\PolymorphismDemo\obj\Debug\net8.0\PolymorphismDemo.AssemblyInfoInputs.cache
+D:\training\vxceed-dotnet-sept2024\codes\day-4\PolymorphismDemo\PolymorphismDemo\obj\Debug\net8.0\PolymorphismDemo.AssemblyInfo.cs
+D:\training\vxceed-dotnet-sept2024\codes\day-4\PolymorphismDemo\PolymorphismDemo\obj\Debug\net8.0\PolymorphismDemo.csproj.CoreCompileInputs.cache
+D:\training\vxceed-dotnet-sept2024\codes\day-4\PolymorphismDemo\PolymorphismDemo\obj\Debug\net8.0\PolymorphismDemo.sourcelink.json
+D:\training\vxceed-dotnet-sept2024\codes\day-4\PolymorphismDemo\PolymorphismDemo\obj\Debug\net8.0\PolymorphismDemo.dll
+D:\training\vxceed-dotnet-sept2024\codes\day-4\PolymorphismDemo\PolymorphismDemo\obj\Debug\net8.0\refint\PolymorphismDemo.dll
+D:\training\vxceed-dotnet-sept2024\codes\day-4\PolymorphismDemo\PolymorphismDemo\obj\Debug\net8.0\PolymorphismDemo.pdb
+D:\training\vxceed-dotnet-sept2024\codes\day-4\PolymorphismDemo\PolymorphismDemo\obj\Debug\net8.0\PolymorphismDemo.genruntimeconfig.cache
+D:\training\vxceed-dotnet-sept2024\codes\day-4\PolymorphismDemo\PolymorphismDemo\obj\Debug\net8.0\ref\PolymorphismDemo.dll
