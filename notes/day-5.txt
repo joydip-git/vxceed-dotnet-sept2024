@@ -105,8 +105,27 @@ public abstract class Person
     }
 }
 
+exception handling:
+runtime errors
+
+Exception => message, source, targetsite etc.
+	=> public Exception(){}
+	=> public Exception(string? message){ this.message = message;}
 
 
+	SystemException
+		DivideByZeroException
+		NullReferenceException
+		ArithmeticException
+		FormatException
+
+	ApplicationException 
+			=> public ApplicationException ():base(message) {}
+			=> public ApplicationException(string? message):base(message){}
+
+		InavlidAgeException
+			=>public InavlidAgeException():base("default message"){}
+			=>public InavlidAgeException(string? message):base(message){}
 
 
 

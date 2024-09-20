@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CalculatorApp.UserInterface/1.0.0": {
+        "dependencies": {
+          "CaculatorApp.Entities": "1.0.0"
+        },
+        "runtime": {
+          "CalculatorApp.UserInterface.dll": {}
+        }
+      },
+      "CaculatorApp.Entities/1.0.0": {
+        "runtime": {
+          "CaculatorApp.Entities.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculatorApp.UserInterface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CaculatorApp.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

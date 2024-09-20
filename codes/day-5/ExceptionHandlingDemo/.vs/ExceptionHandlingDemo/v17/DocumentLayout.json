@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-5\\ExceptionHandlingDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{276DD666-F289-4780-B390-BC751B8F9172}|ExceptionHandlingDemo\\ExceptionHandlingDemo.csproj|d:\\training\\vxceed-dotnet-sept2024\\codes\\day-5\\exceptionhandlingdemo\\exceptionhandlingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276DD666-F289-4780-B390-BC751B8F9172}|ExceptionHandlingDemo\\ExceptionHandlingDemo.csproj|solutionrelative:exceptionhandlingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276DD666-F289-4780-B390-BC751B8F9172}|ExceptionHandlingDemo\\ExceptionHandlingDemo.csproj|d:\\training\\vxceed-dotnet-sept2024\\codes\\day-5\\exceptionhandlingdemo\\exceptionhandlingdemo\\licenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276DD666-F289-4780-B390-BC751B8F9172}|ExceptionHandlingDemo\\ExceptionHandlingDemo.csproj|solutionrelative:exceptionhandlingdemo\\licenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276DD666-F289-4780-B390-BC751B8F9172}|ExceptionHandlingDemo\\ExceptionHandlingDemo.csproj|d:\\training\\vxceed-dotnet-sept2024\\codes\\day-5\\exceptionhandlingdemo\\exceptionhandlingdemo\\invalidageexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276DD666-F289-4780-B390-BC751B8F9172}|ExceptionHandlingDemo\\ExceptionHandlingDemo.csproj|solutionrelative:exceptionhandlingdemo\\invalidageexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvalidAgeException.cs",
+              "DocumentMoniker": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-5\\ExceptionHandlingDemo\\ExceptionHandlingDemo\\InvalidAgeException.cs",
+              "RelativeDocumentMoniker": "ExceptionHandlingDemo\\InvalidAgeException.cs",
+              "ToolTip": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-5\\ExceptionHandlingDemo\\ExceptionHandlingDemo\\InvalidAgeException.cs",
+              "RelativeToolTip": "ExceptionHandlingDemo\\InvalidAgeException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T07:15:03.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LicenseApplication.cs",
+              "DocumentMoniker": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-5\\ExceptionHandlingDemo\\ExceptionHandlingDemo\\LicenseApplication.cs",
+              "RelativeDocumentMoniker": "ExceptionHandlingDemo\\LicenseApplication.cs",
+              "ToolTip": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-5\\ExceptionHandlingDemo\\ExceptionHandlingDemo\\LicenseApplication.cs",
+              "RelativeToolTip": "ExceptionHandlingDemo\\LicenseApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T07:09:04.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-5\\ExceptionHandlingDemo\\ExceptionHandlingDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ExceptionHandlingDemo\\Program.cs",
+              "ToolTip": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-5\\ExceptionHandlingDemo\\ExceptionHandlingDemo\\Program.cs",
+              "RelativeToolTip": "ExceptionHandlingDemo\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwCEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T06:42:40.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

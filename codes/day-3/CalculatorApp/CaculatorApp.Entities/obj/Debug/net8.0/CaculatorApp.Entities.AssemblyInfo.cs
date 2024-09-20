@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CaculatorApp.Entities")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42c321d4c2a19b007e394ed3eae12b230c5f8a77")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+077ebd419214a4967facb9e62e75a63cd5a351b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("CaculatorApp.Entities")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CaculatorApp.Entities")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
