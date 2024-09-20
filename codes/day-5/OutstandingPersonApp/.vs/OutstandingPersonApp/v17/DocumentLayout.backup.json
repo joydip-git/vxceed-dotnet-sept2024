@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-5\\OutstandingPersonApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{831FB25E-70C3-4418-A901-68374008F97C}|OutstandingPersonApp.UserInterface\\OutstandingPersonApp.UserInterface.csproj|d:\\training\\vxceed-dotnet-sept2024\\codes\\day-5\\outstandingpersonapp\\outstandingpersonapp.userinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831FB25E-70C3-4418-A901-68374008F97C}|OutstandingPersonApp.UserInterface\\OutstandingPersonApp.UserInterface.csproj|solutionrelative:outstandingpersonapp.userinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A283579-75E9-44C9-8C80-84D82298A473}|OutstandingPersonApp.Entities\\OutstandingPersonApp.Entities.csproj|d:\\training\\vxceed-dotnet-sept2024\\codes\\day-5\\outstandingpersonapp\\outstandingpersonapp.entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A283579-75E9-44C9-8C80-84D82298A473}|OutstandingPersonApp.Entities\\OutstandingPersonApp.Entities.csproj|solutionrelative:outstandingpersonapp.entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A283579-75E9-44C9-8C80-84D82298A473}|OutstandingPersonApp.Entities\\OutstandingPersonApp.Entities.csproj|d:\\training\\vxceed-dotnet-sept2024\\codes\\day-5\\outstandingpersonapp\\outstandingpersonapp.entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A283579-75E9-44C9-8C80-84D82298A473}|OutstandingPersonApp.Entities\\OutstandingPersonApp.Entities.csproj|solutionrelative:outstandingpersonapp.entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A283579-75E9-44C9-8C80-84D82298A473}|OutstandingPersonApp.Entities\\OutstandingPersonApp.Entities.csproj|d:\\training\\vxceed-dotnet-sept2024\\codes\\day-5\\outstandingpersonapp\\outstandingpersonapp.entities\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A283579-75E9-44C9-8C80-84D82298A473}|OutstandingPersonApp.Entities\\OutstandingPersonApp.Entities.csproj|solutionrelative:outstandingpersonapp.entities\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-5\\OutstandingPersonApp\\OutstandingPersonApp.UserInterface\\Program.cs",
+              "RelativeDocumentMoniker": "OutstandingPersonApp.UserInterface\\Program.cs",
+              "ToolTip": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-5\\OutstandingPersonApp\\OutstandingPersonApp.UserInterface\\Program.cs",
+              "RelativeToolTip": "OutstandingPersonApp.UserInterface\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwBkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T05:47:25.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-5\\OutstandingPersonApp\\OutstandingPersonApp.Entities\\Student.cs",
+              "RelativeDocumentMoniker": "OutstandingPersonApp.Entities\\Student.cs",
+              "ToolTip": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-5\\OutstandingPersonApp\\OutstandingPersonApp.Entities\\Student.cs",
+              "RelativeToolTip": "OutstandingPersonApp.Entities\\Student.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T05:45:04.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-5\\OutstandingPersonApp\\OutstandingPersonApp.Entities\\Professor.cs",
+              "RelativeDocumentMoniker": "OutstandingPersonApp.Entities\\Professor.cs",
+              "ToolTip": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-5\\OutstandingPersonApp\\OutstandingPersonApp.Entities\\Professor.cs",
+              "RelativeToolTip": "OutstandingPersonApp.Entities\\Professor.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T05:42:21.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-5\\OutstandingPersonApp\\OutstandingPersonApp.Entities\\Person.cs",
+              "RelativeDocumentMoniker": "OutstandingPersonApp.Entities\\Person.cs",
+              "ToolTip": "D:\\training\\vxceed-dotnet-sept2024\\codes\\day-5\\OutstandingPersonApp\\OutstandingPersonApp.Entities\\Person.cs",
+              "RelativeToolTip": "OutstandingPersonApp.Entities\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T05:38:19.536Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

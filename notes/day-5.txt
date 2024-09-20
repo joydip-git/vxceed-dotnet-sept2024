@@ -83,7 +83,27 @@ public class Circle
 	}
 }
 
+source code:
+public abstract class Person
+{
+    //automatic-property initializer
+    public string? Name { get; set; } = null;
+    public Person()
+    {
+        
+    }
+}
 
+IL Code:
+public abstract class Person
+{
+    private string? _name = null;
+    public string? Name { get=>_name; set=>_name=value; }
+    public Person()
+    {
+        
+    }
+}
 
 
 
