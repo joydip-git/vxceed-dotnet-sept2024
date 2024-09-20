@@ -1,0 +1,43 @@
+base method/property		child class same method/property    next child class same method/property
+virtual 					=> 				override
+abstract					=> 				override
+virtual/abstract		=>				override						=> override
+
+a pure abstract class => interface
+a. only abstract methods/properties are allowed
+b. no data memeber, constructor can be written inside an interface, except a const and/or static data
+object of interface can't be created
+when a class "implements" an interface, the class must implement all the interface members and 
+while implementing the interface members you don't need to use "override" keyword
+if a class does not implement the interface members, that class becomes an abstract class
+you must declare the class with abstract keyword, as well as you must write the method of interface
+inside the class with "public" access specifier and "abstract" keyword
+
+all interface members are by default public and abstract. don't use any access specifiers with them.
+
+a clas can implement more than one interface
+if a class inherits from another class as well as implements one or more than one interface, then mention the class ame first, follwed by the interface names
+
+abstract class vs. interface
+-----------------------------------
+1. abstract class can have both non-abstract/concrete and abstract methods/properties
+	interface can't have non-abstract/concrete methods/properties
+
+2. inside abstract class you can have static, const and non-static data members
+	inside interface you can have ONLY static and const data members
+
+3. inside abstract class, you can explicitly write constructors
+	inside interface, you can't explicitly write constructors
+
+4. abstract class members can be declared with access specifiers (private, public, etc.)
+	interface members can't be declared with any access specifiers (private, public, etc.). interface members are all by default public.
+
+5. abstract class members are not by default abstract. you need to declare an abstract method/property with "abstract" keyword.
+	interface members are by default abstract. you need not to declare an abstract method/property with "abstract" keyword.
+
+6. while implementing abstract methods/properties in a child class, you must use "override" keyword
+	while implementing interface methods/properties in a child class, you need not to use "override" keyword.
+
+
+1. both abstract class and interface objects can't be created
+2. both are used just as a base template

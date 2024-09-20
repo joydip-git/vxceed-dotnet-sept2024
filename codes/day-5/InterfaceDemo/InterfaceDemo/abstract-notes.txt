@@ -1,0 +1,27 @@
+﻿abstract class A
+    {
+        public virtual void Print() { Console.WriteLine("A Print"); }
+        public abstract void Show();
+    }
+    class B : A
+    {
+        public override void Print() { Console.WriteLine("B Print"); }
+        public sealed override void Show() { Console.WriteLine("B Show"); }
+    }
+    sealed class C : B
+    {
+        public override void Print()
+        {
+            Console.WriteLine("C Print");
+        }
+        //immediate base class method is sealed
+        //public override void Show()
+        //{
+        //    Console.WriteLine("C Show");
+        //}
+    }
+    //since the C clas is seled, you can't inherit from it
+    //class D : C
+    //{
+
+    //}
