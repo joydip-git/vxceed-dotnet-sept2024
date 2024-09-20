@@ -1,0 +1,12 @@
+D:\training\vxceed-dotnet-sept2024\codes\day-5\ShapeAreaCalculator\ShapeAreaCalculator.Entities\bin\Debug\net8.0\ShapeAreaCalculator.Entities.deps.json
+D:\training\vxceed-dotnet-sept2024\codes\day-5\ShapeAreaCalculator\ShapeAreaCalculator.Entities\bin\Debug\net8.0\ShapeAreaCalculator.Entities.dll
+D:\training\vxceed-dotnet-sept2024\codes\day-5\ShapeAreaCalculator\ShapeAreaCalculator.Entities\bin\Debug\net8.0\ShapeAreaCalculator.Entities.pdb
+D:\training\vxceed-dotnet-sept2024\codes\day-5\ShapeAreaCalculator\ShapeAreaCalculator.Entities\obj\Debug\net8.0\ShapeAreaCalculator.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\vxceed-dotnet-sept2024\codes\day-5\ShapeAreaCalculator\ShapeAreaCalculator.Entities\obj\Debug\net8.0\ShapeAreaCalculator.Entities.AssemblyInfoInputs.cache
+D:\training\vxceed-dotnet-sept2024\codes\day-5\ShapeAreaCalculator\ShapeAreaCalculator.Entities\obj\Debug\net8.0\ShapeAreaCalculator.Entities.AssemblyInfo.cs
+D:\training\vxceed-dotnet-sept2024\codes\day-5\ShapeAreaCalculator\ShapeAreaCalculator.Entities\obj\Debug\net8.0\ShapeAreaCalculator.Entities.csproj.CoreCompileInputs.cache
+D:\training\vxceed-dotnet-sept2024\codes\day-5\ShapeAreaCalculator\ShapeAreaCalculator.Entities\obj\Debug\net8.0\ShapeAreaCalculator.Entities.sourcelink.json
+D:\training\vxceed-dotnet-sept2024\codes\day-5\ShapeAreaCalculator\ShapeAreaCalculator.Entities\obj\Debug\net8.0\ShapeAreaCalculator.Entities.dll
+D:\training\vxceed-dotnet-sept2024\codes\day-5\ShapeAreaCalculator\ShapeAreaCalculator.Entities\obj\Debug\net8.0\refint\ShapeAreaCalculator.Entities.dll
+D:\training\vxceed-dotnet-sept2024\codes\day-5\ShapeAreaCalculator\ShapeAreaCalculator.Entities\obj\Debug\net8.0\ShapeAreaCalculator.Entities.pdb
+D:\training\vxceed-dotnet-sept2024\codes\day-5\ShapeAreaCalculator\ShapeAreaCalculator.Entities\obj\Debug\net8.0\ref\ShapeAreaCalculator.Entities.dll

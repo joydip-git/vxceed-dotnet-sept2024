@@ -41,3 +41,61 @@ abstract class vs. interface
 
 1. both abstract class and interface objects can't be created
 2. both are used just as a base template
+
+
+public class Circle
+{
+	//auto-implemented/automatic property
+    public double Radius {  get; set; }
+
+	 public Circle(){}
+	 public Circle(double _radius)
+	 {
+		Radius = _radius;
+	 }
+}
+
+IL Code:
+public class Circle
+{
+	 private double _Radius;
+    public double Radius {  get=> _Radius; set=>_Radius=value; }
+	 public Circle(){}
+	 public Circle(double _radius)
+	 {
+		Radius = _radius;
+	 }
+	
+}
+
+//when to not use auto-implemented property: if you have some amount code to be written inside set or get (such as validation)
+public class Circle
+{
+	private double radius;
+   public double Radius 
+	{  
+		get=> radius;
+		set
+		{
+			if(value>0)
+				radius=value;
+		}
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

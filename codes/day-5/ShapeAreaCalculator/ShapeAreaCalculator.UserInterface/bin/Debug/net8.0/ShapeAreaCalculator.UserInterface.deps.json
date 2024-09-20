@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ShapeAreaCalculator.UserInterface/1.0.0": {
+        "dependencies": {
+          "ShapeAreaCalculator.Entities": "1.0.0"
+        },
+        "runtime": {
+          "ShapeAreaCalculator.UserInterface.dll": {}
+        }
+      },
+      "ShapeAreaCalculator.Entities/1.0.0": {
+        "runtime": {
+          "ShapeAreaCalculator.Entities.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShapeAreaCalculator.UserInterface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShapeAreaCalculator.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
