@@ -1,0 +1,15 @@
+D:\training\vxceed-dotnet-sept2024\codes\day-6\FiltrationDemo\FiltrationDemo\bin\Debug\net8.0\FiltrationDemo.exe
+D:\training\vxceed-dotnet-sept2024\codes\day-6\FiltrationDemo\FiltrationDemo\bin\Debug\net8.0\FiltrationDemo.deps.json
+D:\training\vxceed-dotnet-sept2024\codes\day-6\FiltrationDemo\FiltrationDemo\bin\Debug\net8.0\FiltrationDemo.runtimeconfig.json
+D:\training\vxceed-dotnet-sept2024\codes\day-6\FiltrationDemo\FiltrationDemo\bin\Debug\net8.0\FiltrationDemo.dll
+D:\training\vxceed-dotnet-sept2024\codes\day-6\FiltrationDemo\FiltrationDemo\bin\Debug\net8.0\FiltrationDemo.pdb
+D:\training\vxceed-dotnet-sept2024\codes\day-6\FiltrationDemo\FiltrationDemo\obj\Debug\net8.0\FiltrationDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\vxceed-dotnet-sept2024\codes\day-6\FiltrationDemo\FiltrationDemo\obj\Debug\net8.0\FiltrationDemo.AssemblyInfoInputs.cache
+D:\training\vxceed-dotnet-sept2024\codes\day-6\FiltrationDemo\FiltrationDemo\obj\Debug\net8.0\FiltrationDemo.AssemblyInfo.cs
+D:\training\vxceed-dotnet-sept2024\codes\day-6\FiltrationDemo\FiltrationDemo\obj\Debug\net8.0\FiltrationDemo.csproj.CoreCompileInputs.cache
+D:\training\vxceed-dotnet-sept2024\codes\day-6\FiltrationDemo\FiltrationDemo\obj\Debug\net8.0\FiltrationDemo.sourcelink.json
+D:\training\vxceed-dotnet-sept2024\codes\day-6\FiltrationDemo\FiltrationDemo\obj\Debug\net8.0\FiltrationDemo.dll
+D:\training\vxceed-dotnet-sept2024\codes\day-6\FiltrationDemo\FiltrationDemo\obj\Debug\net8.0\refint\FiltrationDemo.dll
+D:\training\vxceed-dotnet-sept2024\codes\day-6\FiltrationDemo\FiltrationDemo\obj\Debug\net8.0\FiltrationDemo.pdb
+D:\training\vxceed-dotnet-sept2024\codes\day-6\FiltrationDemo\FiltrationDemo\obj\Debug\net8.0\FiltrationDemo.genruntimeconfig.cache
+D:\training\vxceed-dotnet-sept2024\codes\day-6\FiltrationDemo\FiltrationDemo\obj\Debug\net8.0\ref\FiltrationDemo.dll

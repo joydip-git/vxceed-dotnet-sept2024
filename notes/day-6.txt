@@ -41,4 +41,78 @@ List<T>
 HashSet<T> => does not allow to add duplicate elements and can't be iterated using for loop.
 
 
+delegate string Invoker(int num);
+
+class Invoker:MultiCastDelegate (:Delegate:Object)
+{
+	private Object _target;
+	private MethodInfo _method;
+
+	public Invoker(Object target, MethodInfo method)
+	{
+		_method = method;
+		_target = target;
+	}
+
+	public Object Target => _target;
+	public MethodInfo Method => _method;
+
+	public string Invoke(int num)
+	{
+		_method.Invoke(_target,num);
+	}
+}
+
+call();
+//function declaration
+function call(){
+}
+call();
+
+//call1(); => not possible
+//function expression
+var call1 = function(){
+
+}
+call1();
+
+Predicate<T> => delegate bool Predicate<in T>(T item);
+Action<T> => delegate void Action<in T>(T item);
+
+Action<int> printNum = (num)=>Console.WriteLine(num);
+Predicate<int> isEven = (num)=>num%2==0;
+
+Func => delegate TResult Func<out TResult>();
+Func => delegate TResult Func<in TInput1, out TResult>(TInput1 x);
+Func => delegate TResult Func<in TInput1,in TInput2, out TResult>(TInput1 x, TInput2 y);
+.....
+Func => delegate TResult Func<in TInput1,..,in TInput16, out TResult>(TInput1 x, ...,TInput16 a);
+
+
+class List<T>:IEnumerable<T>, IList<T>, ICollection<T>{
+	Add
+	Remove
+	//Where
+}
+
+static class Enumerable<T>{
+	public static IEnumerable<T> Where(this IEnumerable<T> e, Func<T,bool> func)
+	{
+		IEnumerable<T> result = new List<T>();
+		foreach(T item in e)
+		{
+			if(func(item))
+				result.add(item)
+		}
+		return result;
+	}
+}
+
+
+
+
+
+
+
+
 
