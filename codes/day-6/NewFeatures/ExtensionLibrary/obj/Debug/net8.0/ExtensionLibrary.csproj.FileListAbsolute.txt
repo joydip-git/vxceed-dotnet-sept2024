@@ -1,0 +1,16 @@
+D:\training\vxceed-dotnet-sept2024\codes\day-6\NewFeatures\ExtensionLibrary\bin\Debug\net8.0\ExtensionLibrary.deps.json
+D:\training\vxceed-dotnet-sept2024\codes\day-6\NewFeatures\ExtensionLibrary\bin\Debug\net8.0\ExtensionLibrary.dll
+D:\training\vxceed-dotnet-sept2024\codes\day-6\NewFeatures\ExtensionLibrary\bin\Debug\net8.0\ExtensionLibrary.pdb
+D:\training\vxceed-dotnet-sept2024\codes\day-6\NewFeatures\ExtensionLibrary\bin\Debug\net8.0\CalculationLibrary.dll
+D:\training\vxceed-dotnet-sept2024\codes\day-6\NewFeatures\ExtensionLibrary\bin\Debug\net8.0\CalculationLibrary.pdb
+D:\training\vxceed-dotnet-sept2024\codes\day-6\NewFeatures\ExtensionLibrary\obj\Debug\net8.0\ExtensionLibrary.csproj.AssemblyReference.cache
+D:\training\vxceed-dotnet-sept2024\codes\day-6\NewFeatures\ExtensionLibrary\obj\Debug\net8.0\ExtensionLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\vxceed-dotnet-sept2024\codes\day-6\NewFeatures\ExtensionLibrary\obj\Debug\net8.0\ExtensionLibrary.AssemblyInfoInputs.cache
+D:\training\vxceed-dotnet-sept2024\codes\day-6\NewFeatures\ExtensionLibrary\obj\Debug\net8.0\ExtensionLibrary.AssemblyInfo.cs
+D:\training\vxceed-dotnet-sept2024\codes\day-6\NewFeatures\ExtensionLibrary\obj\Debug\net8.0\ExtensionLibrary.csproj.CoreCompileInputs.cache
+D:\training\vxceed-dotnet-sept2024\codes\day-6\NewFeatures\ExtensionLibrary\obj\Debug\net8.0\ExtensionLibrary.sourcelink.json
+D:\training\vxceed-dotnet-sept2024\codes\day-6\NewFeatures\ExtensionLibrary\obj\Debug\net8.0\Extensio.AC91C986.Up2Date
+D:\training\vxceed-dotnet-sept2024\codes\day-6\NewFeatures\ExtensionLibrary\obj\Debug\net8.0\ExtensionLibrary.dll
+D:\training\vxceed-dotnet-sept2024\codes\day-6\NewFeatures\ExtensionLibrary\obj\Debug\net8.0\refint\ExtensionLibrary.dll
+D:\training\vxceed-dotnet-sept2024\codes\day-6\NewFeatures\ExtensionLibrary\obj\Debug\net8.0\ExtensionLibrary.pdb
+D:\training\vxceed-dotnet-sept2024\codes\day-6\NewFeatures\ExtensionLibrary\obj\Debug\net8.0\ref\ExtensionLibrary.dll
