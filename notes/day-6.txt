@@ -108,7 +108,10 @@ static class Enumerable<T>{
 	}
 }
 
-
+SQL Server:
+	Express Edition 		=> instance name : pc-name\sqlexpress
+	professional edition
+	Enterprise Edition		
 
 
 
